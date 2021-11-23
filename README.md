@@ -1,6 +1,6 @@
-#Stocks and Cryptocurrency Price Web Application
+# Stocks and Cryptocurrency Price Web Application
 
-# Reproducing this web app
+## Reproducing this web app
 To recreate this web app on your own computer, do the following.
 
 ### Create conda environment
@@ -16,7 +16,7 @@ conda activate base
 
 Download requirements.txt file
 ```
-wget https://raw.githubusercontent.com/dataprofessor/stock-app/main/requirements.txt
+wget https://github.com/SanchaiAhilan/Stocks-and-Cryptocurrency-Price-Web-Application/blob/master/requirements.txt
 ```
 
 Install libraries
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ### Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/dataprofessor/stock-app/archive/main.zip
+Download and unzip contents from https://github.com/SanchaiAhilan/Stocks-and-Cryptocurrency-Price-Web-Application/archive/master.zip
 
 ###  Launch the app
 
