@@ -49,7 +49,7 @@ if nav=="Cryptocurrency":
     }
     headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '4afb1664-aaef-48b2-9c38-4dc6d4cc2c71',
+    'X-CMC_PRO_API_KEY': 'YOUR API KEY',
     }
     response = requests.get(url, params=parameters, headers=headers)
     jsondata = json.loads(response.text)
@@ -155,7 +155,7 @@ elif nav=="Currency Converter":
     target = col1.selectbox('Target currency', currency_list)
     amount=col1.number_input('Amount',min_value=0)
 
-    url = 'https://free.currconv.com/api/v7/convert?q='+base+'_'+target+'&compact=ultra&apiKey=99015adfcda4b7ed4754'
+    url = 'https://free.currconv.com/api/v7/convert?q='+base+'_'+target+'&compact=ultra&apiKey=YOUR API KEY'
     response = requests.get(url)
     data = response.json()
     x=amount*data[base+'_'+target]
