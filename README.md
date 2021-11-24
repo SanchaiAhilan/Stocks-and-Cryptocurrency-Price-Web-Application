@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ### Download and unzip contents from GitHub repo
-Download and unzip contents from https://github.com/SanchaiAhilan/Stocks-and-Cryptocurrency-Price-Web-Application/archive/master.zip
+Download the [Stocks and Cryptocurrency Web Application](https://github.com/SanchaiAhilan/Stocks-and-Cryptocurrency-Price-Web-Application/archive/master.zip) and unzip
 
 ###  Launch the app
 ```
