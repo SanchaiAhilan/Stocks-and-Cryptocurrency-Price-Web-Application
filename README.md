@@ -46,6 +46,11 @@ streamlit run app.py
 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Want to work on the project? Any kind of contribution is welcome!
 
-Please make sure to update tests as appropriate.
+Follow these steps:
+* Fork the project.
+* Create a new branch.
+* Make your changes and write tests when practical.
+* Commit your changes to the new branch.
+* Send a pull request.
